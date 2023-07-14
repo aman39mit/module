@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"newrelic_synthetics_monitor","Source":"git::https://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@github.com/aman39mit/childmodule","Dir":".terraform/modules/newrelic_synthetics_monitor"},{"Key":"","Source":"","Dir":"."}]}
